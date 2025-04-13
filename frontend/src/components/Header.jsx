@@ -6,7 +6,7 @@ import icon from "../assets/icon.png"
 
 const Header = () => {
   return (
-    <header className="header bg-[#471B4A]">
+    <header className="header bg-[#123B4A]">
       <div className="">
         <img className="w-[2vw]" src={icon} alt="" />
         <div className="">Proactive-Learning</div>

@@ -49,7 +49,7 @@
   
   button {
     padding: 10px 20px;
-    background-color: #ff7f00; 
+    background-color: #9626e1; 
     color: white;
     border: none;
     border-radius: 5px;
@@ -58,5 +58,5 @@
   }
   
   button:hover {
-    background-color: #e66700; /* Darker orange */
+    background-color: #e66800e1; /* Darker orange */
   }
